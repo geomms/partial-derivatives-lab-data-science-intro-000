@@ -318,4 +318,4 @@ two_x_cubed_y_plus_three_y_x_plus_x = [(2, 3, 1), (3, 1, 1), (1, 1, 0)]
 df_dy(two_x_cubed_y_plus_three_y_x_plus_x) # [(2, 3, 0), (3, 1, 0)]
 ```
 
-Great job! Hopefully, now you understand a little more about multivariable functions and derivatives!
+Great job! Hopefully, now you understand a little more about multivariable functions and derivatives.
